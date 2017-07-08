@@ -1,0 +1,35 @@
+{
+  "globals": {
+
+  },
+  "plugins": [
+  ],
+  "extends": [
+    "eslint:recommended",
+  ],
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
+  "rules": {
+    "brace-style": "error",
+    "space-before-blocks": "error",
+    "block-spacing": "error",
+    "comma-spacing": ["error", { "before": false, "after": true }],
+    "comma-dangle": ["error", "never"],
+    "keyword-spacing": ["error", {"overrides": {
+      "if": { "after": true },
+      "for": { "after": true },
+      "while": { "after": true }
+    } }],
+    "space-before-function-paren": ["error", "never"],
+    "space-in-parens": "error",
+    "requirejs/no-named-define": 0,
+    "requirejs/no-js-extension": 0
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  }
+}

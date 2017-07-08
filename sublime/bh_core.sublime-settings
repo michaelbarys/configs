@@ -1,0 +1,7 @@
+//
+// User settings for Bracket Highlighter
+//
+{
+  // Character threshold to search
+  "search_threshold": 50000
+}

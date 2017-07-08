@@ -1,0 +1,1452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cssPr",
+				"cssPropMap"
+			],
+			[
+				"addCs",
+				"addCssPropMap"
+			],
+			[
+				"container",
+				"containerbgcolor"
+			],
+			[
+				"color-",
+				"color-highlight"
+			],
+			[
+				"confi",
+				"confirmPopup"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"window",
+				"windowPosition〔variable〕"
+			],
+			[
+				"wind",
+				"windowPosition〔variable〕"
+			],
+			[
+				"thum",
+				"thumbnailPosition"
+			],
+			[
+				"toggle",
+				"toggleInsertImageBtn"
+			],
+			[
+				"f",
+				"flex"
+			],
+			[
+				"translate",
+				"translate3d()"
+			],
+			[
+				"inputFile",
+				"inputFileId"
+			],
+			[
+				"visible",
+				"visibleWidth〔variable〕"
+			],
+			[
+				"just",
+				"justify-items"
+			],
+			[
+				"fav",
+				"favouritesContainer"
+			],
+			[
+				"cli",
+				"clientSecret〔variable〕"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"initT",
+				"initTogglePassword"
+			],
+			[
+				"init",
+				"initToggle"
+			],
+			[
+				"truncat",
+				"truncatedHashParts"
+			],
+			[
+				"pass",
+				"passwordResetResponse"
+			],
+			[
+				"password",
+				"password_remind_hash〔variable〕"
+			],
+			[
+				"form",
+				"formControlCSS〔variable〕"
+			],
+			[
+				"new",
+				"newValue"
+			],
+			[
+				"previe",
+				"preview-loading"
+			],
+			[
+				"cle",
+				"clearTimeout〔function〕"
+			],
+			[
+				"tar",
+				"transform"
+			],
+			[
+				"appen",
+				"appendAllDropdownToBody"
+			],
+			[
+				"bind",
+				"bindIntroForm"
+			],
+			[
+				"blo",
+				"block--page-item__options"
+			],
+			[
+				"chart",
+				"chartData"
+			],
+			[
+				"color",
+				"colorPicker1"
+			],
+			[
+				"tran",
+				"translate()"
+			],
+			[
+				"nun",
+				"nunjucksTask〔function〕"
+			],
+			[
+				"update",
+				"updateItemWidth"
+			],
+			[
+				"push",
+				"pushToBickbucketOrigin"
+			],
+			[
+				"mainLa",
+				"mainLayerTop"
+			],
+			[
+				"newsle",
+				"newsletterService"
+			],
+			[
+				"open",
+				"openPopup"
+			],
+			[
+				"tooltip",
+				"tooltip-fadeIn"
+			],
+			[
+				"bit",
+				"bitbucket_login"
+			],
+			[
+				"sidebar",
+				"sidebar-first-col-width"
+			],
+			[
+				"clip",
+				"clipboard-height"
+			],
+			[
+				"search",
+				"search-form-height"
+			],
+			[
+				"c-tabs",
+				"c-tabs_content_pane"
+			],
+			[
+				"appan",
+				"appandu-intro"
+			],
+			[
+				"nth-",
+				"nth-last-child()"
+			],
+			[
+				"marker",
+				"markerPlacesPath"
+			],
+			[
+				"gMap",
+				"gMapsLoaded"
+			],
+			[
+				"column",
+				"columnTemplate"
+			],
+			[
+				"back",
+				"backgroundimage"
+			],
+			[
+				"mb_convert",
+				"mb_convert_encoding〔function〕"
+			],
+			[
+				"flex-",
+				"flex-direction"
+			],
+			[
+				"date_default_timezo",
+				"date_default_timezone_set"
+			],
+			[
+				"wx-back",
+				"wx-background-attachment"
+			],
+			[
+				"wx-",
+				"wx-background-position"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"pre",
+				"perspective"
+			],
+			[
+				"wra",
+				"wrapInner\t.wrapInner()"
+			],
+			[
+				"tab",
+				"tabOffsetLeft"
+			],
+			[
+				"c-",
+				"c-form_control"
+			],
+			[
+				"block--video-simple",
+				"block--video-simple__title"
+			],
+			[
+				"calc",
+				"calcTootlipsPos"
+			],
+			[
+				"cals",
+				"calcMarkersPos"
+			],
+			[
+				"list--showroom",
+				"list--showroom-links"
+			],
+			[
+				"form-cal",
+				"form--catalog"
+			],
+			[
+				"block--award-",
+				"block--award__img-wrap"
+			],
+			[
+				"block-award",
+				"block--award__img-wrap"
+			],
+			[
+				"block--awr",
+				"block--award--alt"
+			],
+			[
+				"block--menu",
+				"block--menu-flipped__back"
+			],
+			[
+				"block--menu-",
+				"block--menu-flipped--biz"
+			],
+			[
+				"togg",
+				"toggleButtons"
+			],
+			[
+				"butt",
+				"buttonsEnabled〔variable〕"
+			],
+			[
+				"list--main-cate",
+				"list--main-categories__item"
+			],
+			[
+				"block--main",
+				"block--main-category__second"
+			],
+			[
+				"block--main-ca",
+				"block--main-category__first"
+			],
+			[
+				"block--video-s",
+				"block--video-simple__title"
+			],
+			[
+				"list--vid",
+				"list--videos__item"
+			],
+			[
+				"block--v",
+				"block--video-simple"
+			],
+			[
+				"cpnt--helpline__cols__col__",
+				"cpnt--helpline__cols__col__tel"
+			],
+			[
+				"cpnt-hel",
+				"cpnt--helpline__cols"
+			],
+			[
+				"cpnt--helpline",
+				"cpnt--helpline__cols__col"
+			],
+			[
+				"cpnt--helpline__",
+				"cpnt--helpline__cols__col__text"
+			],
+			[
+				"list--s",
+				"list--simple__item"
+			],
+			[
+				"list--si",
+				"list--simple"
+			],
+			[
+				"fields-",
+				"fields-group__col"
+			],
+			[
+				"text__figure",
+				"text__figure--to-left"
+			],
+			[
+				"btn--def",
+				"btn--default--biz"
+			],
+			[
+				"head",
+				"head--default--biz"
+			],
+			[
+				"cpnt--efaktura__c",
+				"cpnt--efaktura__content__col"
+			],
+			[
+				"cpnt--efaktura",
+				"cpnt--efaktura__content__col"
+			],
+			[
+				"block--table",
+				"block--table__col"
+			],
+			[
+				"bnt--de",
+				"btn--default--biz"
+			],
+			[
+				"las",
+				"last-child"
+			],
+			[
+				"block--ben",
+				"block--benefits__col"
+			],
+			[
+				"block--map",
+				"block--map-search__handler"
+			],
+			[
+				"list--bun",
+				"list--bundle--i1"
+			],
+			[
+				"list",
+				"list--bundle--i1"
+			],
+			[
+				"form--ordre",
+				"form--order__bottom"
+			],
+			[
+				"list--order-det",
+				"list--order-details__item"
+			],
+			[
+				"nagrywa",
+				"nagrywarką"
+			],
+			[
+				"fields",
+				"fields-group__col"
+			],
+			[
+				"block--job-offer",
+				"block--job-offer__info"
+			],
+			[
+				"cpnt--you",
+				"cpnt--your-job__content__col"
+			],
+			[
+				"list--hiring",
+				"list--hiring-process__item"
+			],
+			[
+				"cptn--hi",
+				"cpnt--hiring-process__text"
+			],
+			[
+				"list--job",
+				"list--job-offers__item"
+			],
+			[
+				"adjus",
+				"adjustCells"
+			],
+			[
+				"sli",
+				"slick-active"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"tool",
+				"tooltip--default"
+			],
+			[
+				"block--hotspot-where",
+				"block--hotspot-where__content"
+			],
+			[
+				"list--pag",
+				"list--pagination"
+			],
+			[
+				"form--cat",
+				"form--catalog"
+			],
+			[
+				"form--ca",
+				"form--catalog"
+			],
+			[
+				"list--pagin",
+				"list--pagination__item"
+			],
+			[
+				"list--or",
+				"list--ordered__item"
+			],
+			[
+				"list--def",
+				"list--default__item"
+			],
+			[
+				"cpnt--how",
+				"cpnt--how-to-run__box"
+			],
+			[
+				"list--how",
+				"list--how-to-run__item"
+			],
+			[
+				"list--ho",
+				"list--how-to-run__item"
+			],
+			[
+				"cpnt--how-",
+				"cpnt--how-to-run__content"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"last",
+				"last-of-type"
+			],
+			[
+				"block--def",
+				"block--default__text"
+			],
+			[
+				"list--chan",
+				"list--channels__item"
+			],
+			[
+				"spa",
+				"space-between"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"post",
+				"Run PostCSS Sorting"
+			],
+			[
+				"packupd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"synyaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"packup",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"gitgutpop",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"gitgu",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit history"
+			],
+			[
+				"packl",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"removepa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"beaut",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"bea",
+				"Beautify::Beautify File"
+			],
+			[
+				"projse",
+				"Project: Refresh Folders"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"install c",
+				"Package Control: Install Package"
+			],
+			[
+				"synjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"Material Theme: Activate theme",
+				"Material Theme: Activate theme"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"showprev",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"git show",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"SYNJSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"synsa",
+				"Set Syntax: Sass"
+			],
+			[
+				"syncss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"synhan",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"jas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git prev",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gitprev",
+				"Git: Show Previous Version of Current File"
+			],
+			[
+				"synht",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"synh",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"packinst",
+				"Package Control: Install Package"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packlis",
+				"Package Control: List Packages"
+			],
+			[
+				"synru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"synsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pakin",
+				"Package Control: Install Package"
+			],
+			[
+				"pacinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packdis",
+				"Package Control: Disable Package"
+			],
+			[
+				"syn bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"syn sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"pack ins",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"synmark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"synini",
+				"Set Syntax: INI"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 373.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michalbarys/Library/Application Support/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/Users/michalbarys/Library/Application Support/Sublime Text 3/Packages/User/PostCSSSorting.sublime-settings",
+		"/Users/michalbarys/Workspace/private/boilerplate/.stylelintrc",
+		"/Users/michalbarys/Workspace/private/boilerplate/boilerplate.sublime-project",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/themes/_default.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/components/_button.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/abstracts/_mixins.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/base/_base.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/vendors/_normalize.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/main.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/abstracts/_variables.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/vendors/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/vendors-extensions/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/layout/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/themes/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/pages/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_shame.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/components/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/base/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/templates/index.tpl",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/base/_reset.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/.sass-lint.yml",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/abstracts/README.md",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/helpers/clearfix.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/vendor/_normalize.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/layout/_module.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/components/_module.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/base/_module.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_variables.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_base.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_mixins.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/mixins/_photoshop-shadow.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_helpers.scss",
+		"/Users/michalbarys/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/Users/michalbarys/Library/Application Support/Sublime Text 3/Packages/PostCSS Sorting/PostCSSSorting.sublime-settings",
+		"/Users/michalbarys/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_config.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/mixins/_box-shadow.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/sass/_typography.scss",
+		"/Users/michalbarys/Workspace/private/boilerplate/src/js/app.js",
+		"/Users/michalbarys/Workspace/private/boilerplate/bower.json",
+		"/Users/michalbarys/Workspace/private/boilerplate/node_modules/babel-code-frame/lib/index.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/page-manager/lib/services/static-page-action-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/demo.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/page-manager/page-manager.js",
+		"/Users/michalbarys/Workspace/work/appandu/ecosystem.config.js",
+		"/Users/michalbarys/Workspace/work/appandu/appandu.sublime-project",
+		"/Users/michalbarys/Workspace/private/boilerplate/build/js/app.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/services/hbs-helpers/widget-data-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/panel/ewidgets.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/widgets/base/middleware/base-item.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/widgets/base/middleware/base-widget.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/widgets/base/middleware/viewLogic.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/button/middleware/viewLogic.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/text/middleware/viewLogic.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/assets/front-manager.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/services/bootstrap-express-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/page-manager/lib/models/item-tree.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/assets/sass/partials/widgets/_base.scss",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/assets/sass/partials/config/_widgets.scss",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/panel/templateProvider.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/widgets/base/client-side/base-front.js",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/saveHandler.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/static-admin-pages/lib/services/static-admin-pages-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/services/template-provider-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/page-manager/lib/services/page-manager-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/panel/pages/tree.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/text/middleware/text-widget.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/text/middleware/assets/text.tpl",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/text/client-side/text-front.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/video/middleware/video-widget.js",
+		"/Users/michalbarys/Workspace/work/appandu/.eslintrc",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/services/template-engine-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/services/widget-manager-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/page-templates/lib/services/page-templates-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/assets/sass/front.scss",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/assets/sass/admin.scss",
+		"/Users/michalbarys/Workspace/work/appandu/Vagrantfile",
+		"/Users/michalbarys/Workspace/work/appandu/app.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/assets/sass/partials/_widgets.scss",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/text/client-side/text-admin.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/button/middleware/button-widget.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/button/middleware/assets/button.tpl",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/content/lib/widgets/button/client-side/button-admin.js",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel/au/block-workarea.scss",
+		"/Users/michalbarys/Workspace/work/appandu/views/layout.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/views/panel/layout.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel/au/8widgets.scss",
+		"/Users/michalbarys/Workspace/work/8widgets/src/inline/BaseInline.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/modern/element/Textarea.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/modern/element/Colorpicker.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/modern/element/Input.bak.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/modern/element/Input.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/modern/element/Checkbox.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/element/BaseElement.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/Core.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/element/Colorpicker.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/widget/attribute/CssAttr.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/widget/Container.js",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/panel/image-editor.js",
+		"/Users/michalbarys/Workspace/work/appandu/views/panel/partials/windows/image_editor.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel/au/window/page-settings.scss",
+		"/Users/michalbarys/Workspace/work/appandu/views/panel/partials/windows/page_settings.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel/au/window/image-editor.scss",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel/au/window.scss",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel/au/block-filter.scss",
+		"/Users/michalbarys/Workspace/work/appandu/public/js/main.js",
+		"/Users/michalbarys/Workspace/work/appandu/routes/index.js",
+		"/Users/michalbarys/Workspace/work/appandu/routes/profile.js",
+		"/Users/michalbarys/Workspace/work/appandu/views/index.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/sass/main.scss",
+		"/Users/michalbarys/Workspace/work/appandu/sass/error-page.scss",
+		"/Users/michalbarys/Workspace/work/appandu/public/404.html",
+		"/Users/michalbarys/Workspace/work/appandu/config/main.json",
+		"/Users/michalbarys/Workspace/work/appandu/webpack.config.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/engine/lib/action-response.js",
+		"/Users/michalbarys/Workspace/work/appandu/views/privacy-policy.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/views/terms-of-service.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/file/lib/services/file-manager-service.js",
+		"/Users/michalbarys/Workspace/work/appandu/node_modules/platform/layout/lib/widgets/columns/middleware/columns-widget.js",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel.scss",
+		"/Users/michalbarys/Workspace/work/appandu/views/panel/index.hbs",
+		"/Users/michalbarys/Workspace/work/appandu/sass/panel.scss~HEAD",
+		"/Users/michalbarys/Workspace/work/8widgets/src/widget/attribute/Margins.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/Manager.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/widget/BaseWidget.js",
+		"/Users/michalbarys/Workspace/work/8widgets/src/dialog/BaseDialog.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"order",
+			"directive",
+			"declaration",
+			"zero",
+			">\n",
+			"src",
+			"      \"",
+			"excludeFolders",
+			"},\n",
+			"ready",
+			"bodyParser",
+			"renderItem",
+			"getTemplateParams",
+			"page/load",
+			"wx-content-text",
+			"content",
+			"BASE_EDITABLES",
+			"replaceWork",
+			"url",
+			"margin",
+			"console",
+			"getDialog",
+			"getData",
+			"get(",
+			"get",
+			"tinymce",
+			"front",
+			"admin",
+			"appandu-base",
+			"modern",
+			"rename",
+			"this.$sourceBody",
+			".wx-root",
+			"fa-",
+			"console",
+			"if ($(selector).length === 0) {\n    //   console.log('aaa');\n    //   return;\n    // }",
+			"topbar",
+			"toolbar",
+			"resizabel",
+			"*:not(.ui-dialog)",
+			"offset()",
+			"container",
+			"render",
+			"console",
+			"showOp",
+			"mouseover.8widgets",
+			"Current page has",
+			"Current",
+			"this.manager",
+			"tooltip(",
+			"initEd",
+			"col-xs",
+			"font-size",
+			"border-",
+			"Panel",
+			"$",
+			"@inc",
+			"wx8-widget-placeholder",
+			"#1BA195",
+			"console",
+			"').",
+			"preview",
+			"overflow",
+			"js__thumbnail-preview",
+			"files",
+			"preview-loading",
+			"console",
+			".front .top-navigation .navbar",
+			"preview",
+			"/*",
+			"ie",
+			"/*",
+			"2014 A Project of Fidor Bank AG",
+			"site-footer",
+			"preview",
+			"previeww",
+			"ui-",
+			"lazy",
+			"h1",
+			"full_path",
+			"console.log",
+			"bottom",
+			"paddingLeftRightStyles",
+			"bottom",
+			"marginbottom",
+			"margin-style-group",
+			"tool-lab",
+			"options",
+			"tool-lab",
+			"ficon",
+			"tool-lab",
+			"wx8-options-wrapper",
+			"tool-la",
+			"console",
+			"js-options-wrapper",
+			"sticky",
+			"responsivetable",
+			"wx-container",
+			"table",
+			"theme",
+			"releases",
+			"btn-default",
+			"Templates",
+			"snippe",
+			"btn-default",
+			"dropdown",
+			".table",
+			"table",
+			"page-head",
+			"layouts",
+			"form",
+			".on(",
+			".on",
+			".on(",
+			"setUser",
+			"layout",
+			"handlebars",
+			"#ffffff",
+			"st([0-9]+)",
+			"#ffffff",
+			"st([0-9]+)",
+			"#ffffff",
+			"st([0-9]+)",
+			"#ffffff",
+			"#333333",
+			"icon-slider",
+			"st([0-9]+)",
+			"#ffffff"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"resizable",
+			"body >",
+			"position()",
+			"#666666",
+			"wx-toolbar-icon-header$1",
+			"wx-toolbar-icon-footer$1",
+			"wx-toolbar-icon-columns$1",
+			"#666666",
+			"wx-toolbar-icon-video$1",
+			"#666666",
+			"wx-toolbar-icon-text$1",
+			"wx-toolbar-icon-tabs$1",
+			"#666666",
+			"wx-toolbar-icon-slider",
+			"wx-toolbar-icon-page-list$1",
+			"#666666",
+			"wx-toolbar-icon-nav$1",
+			"wx-toolbar-icon-image$1",
+			"#666666",
+			"wx-toolbar-icon-form$1",
+			"#666666",
+			"#333333",
+			"wx-toolbar-icon-button$1",
+			"widget-icon-button$1",
+			"icon-slider$1",
+			".icon-slider$1",
+			"#333333",
+			"[data-toggle=\"jstree\"]",
+			"$color-primary",
+			"block--list-item",
+			".block--list-item",
+			".comfy",
+			"feedback-form_fields",
+			"feedback-form",
+			"feedback-form_content",
+			"$",
+			"$base-height",
+			"$responsive",
+			"$mobile-wholerow-borderb",
+			"$mobile-wholerow-bordert",
+			"$mobile-wholerow-shadow",
+			"$mobile-wholerow-bg-color",
+			"$search-result-color",
+			"$clicked-gradient-color-2",
+			"$clicked-gradient-color-1",
+			"$clicked-shadow-color",
+			"$clicked-bg-color",
+			"$disabled-bg-color",
+			"$disabled-color",
+			"$hovered-shadow-color",
+			"$hovered-bg-color",
+			"#{$image-path}",
+			"#{$theme-name}",
+			"/assets/engine",
+			"-no-padding-x",
+			"img/",
+			";",
+			"tabs__nav__list--i5",
+			"table--default"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"but",
+				"src/sass/components/_button.scss"
+			],
+			[
+				"butt",
+				"src/sass/components/_button.scss"
+			],
+			[
+				"clear",
+				"src/sass/helpers/clearfix.scss"
+			],
+			[
+				"base-w",
+				"node_modules/platform/engine/lib/widgets/base/middleware/base-widget.js"
+			],
+			[
+				"page-ma",
+				"node_modules/platform/page-manager/page-manager.js"
+			],
+			[
+				"demo",
+				"public/js/demo.js"
+			],
+			[
+				"window.sc",
+				"sass/panel/au/window.scss"
+			],
+			[
+				"hbshelwidg",
+				"node_modules/platform/engine/lib/services/hbs-helpers/widget-data-service.js"
+			],
+			[
+				"ewid",
+				"public/js/panel/ewidgets.js"
+			],
+			[
+				"tree",
+				"public/js/panel/pages/tree.js"
+			],
+			[
+				"servtempl",
+				"node_modules/platform/engine/lib/services/template-provider-service.js"
+			],
+			[
+				"temppro",
+				"public/js/panel/templateProvider.js"
+			],
+			[
+				"basewidg",
+				"node_modules/platform/engine/lib/widgets/base/middleware/base-widget.js"
+			],
+			[
+				"fronmana",
+				"node_modules/platform/engine/assets/front-manager.js"
+			],
+			[
+				"base-wi",
+				"node_modules/platform/engine/lib/widgets/base/middleware/base-widget.js"
+			],
+			[
+				"savehan",
+				"public/js/saveHandler.js"
+			],
+			[
+				"button-w",
+				"node_modules/platform/content/lib/widgets/button/middleware/button-widget.js"
+			],
+			[
+				"text.tp",
+				"node_modules/platform/content/lib/widgets/text/middleware/assets/text.tpl"
+			],
+			[
+				"favou",
+				"public/js/panel/favourites.js"
+			],
+			[
+				"20160622121106_create_permissions.rb",
+				"db/migrate/20160622121106_create_permissions.rb"
+			],
+			[
+				"user",
+				"node_modules/platform/user/user.js"
+			],
+			[
+				"use",
+				"node_modules/platform/user/user.js"
+			],
+			[
+				"tree.js",
+				"modules/tree/tree.js"
+			],
+			[
+				"main.",
+				"config/main.json"
+			],
+			[
+				"base.",
+				"app/assets/stylesheets/base.css.scss"
+			],
+			[
+				"pages/",
+				"app/views/comfy/admin/cms/pages/_index_branch.html.erb"
+			],
+			[
+				"partials",
+				"app/views/comfy/admin/cms/partials/_body_before.html.erb"
+			],
+			[
+				"html",
+				"spec/fixtures/files/header.html"
+			],
+			[
+				"base",
+				"app/assets/javascripts/comfy/admin/cms/widgetize/Base.js"
+			],
+			[
+				"panel",
+				"modules/static-admin-pages/assets/js/8widgets/toolbar/Panel.js"
+			],
+			[
+				"panel.js",
+				"modules/static-admin-pages/assets/js/8widgets/toolbar/Panel.js"
+			],
+			[
+				"mana",
+				"overrides/manager_js.hbs"
+			],
+			[
+				"pane",
+				"modules/static-admin-pages/assets/js/8widgets/toolbar/Panel.js"
+			],
+			[
+				"manager",
+				"modules/static-admin-pages/assets/manager_js.hbs"
+			],
+			[
+				"formfield",
+				"modules/engine/lib/form/field/field.js"
+			],
+			[
+				"data-list",
+				"modules/form/lib/widgets/data-list/client-side/data-list-admin.js"
+			],
+			[
+				"cust",
+				"app/assets/javascripts/comfy/admin/cms/custom.js.erb"
+			],
+			[
+				"base.js",
+				"app/assets/javascripts/comfy/admin/cms/widgetize/Base.js"
+			],
+			[
+				"fid",
+				"config/services/fidorde/database.yml"
+			],
+			[
+				"cms.h",
+				"app/views/layouts/cms.html.erb"
+			],
+			[
+				"tabs",
+				"app/assets/javascripts/widgets/tabs.js"
+			],
+			[
+				"tplsty",
+				"tpl/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/private/boilerplate/boilerplate.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
