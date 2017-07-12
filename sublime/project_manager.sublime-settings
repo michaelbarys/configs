@@ -1,0 +1,7 @@
+//
+// User settings for Project Manager
+//
+{
+  // A list of folders containing *.sublime-project files
+  "projects_path": ["/Users/michalbarys/Workspace/sublime-projects"],
+}
