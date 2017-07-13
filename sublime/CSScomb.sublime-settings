@@ -1,0 +1,310 @@
+//
+// User settings for CSS Comb
+//
+{
+  // If plugin has trouble finding Node.js, replace this string with path
+  // to your `node` bin
+  "node-path" : ":/usr/local/bin",
+
+  "config": {
+
+    // Whether to add a semicolon after the last value/mixin.
+    "always-semicolon": true,
+
+    // Set indent for code inside blocks, including media queries and nested rules.
+    "block-indent": 2,
+
+    // Unify case of hexadecimal colors.
+    "color-case": "lower",
+
+    // Whether to expand hexadecimal colors or use shorthands.
+    "color-shorthand": true,
+
+    // Unify case of element selectors.
+    "element-case": "lower",
+
+    // Add/remove line break at EOF.
+    "eof-newline": true,
+
+    // Add/remove leading zero in dimensions.
+    "leading-zero": false,
+
+    // Unify quotes style.
+    "quotes": "single",
+
+    // Remove all rulesets that contain nothing but spaces.
+    "remove-empty-rulesets": true,
+
+    // Set space after `:` in declarations.
+    "space-after-colon": " ",
+
+    // Set space after combinator (for example, in selectors like `p > a`).
+    "space-after-combinator": " ",
+
+    // Set space after `{`.
+    "space-after-opening-brace": "\n",
+
+    // Set space after selector delimiter.
+    "space-after-selector-delimiter": "\n",
+
+    // Set space before `}`.
+    "space-before-closing-brace": "\n",
+
+    // Set space before `:` in declarations.
+    "space-before-colon": "",
+
+    // Set space before combinator (for example, in selectors like `p > a`).
+    "space-before-combinator": " ",
+
+    // Set space before `{`.
+    "space-before-opening-brace": " ",
+
+    // Set space before selector delimiter.
+    "space-before-selector-delimiter": "",
+
+    // Set space between declarations (i.e. `color: tomato`).
+    "space-between-declarations": "\n",
+
+    // Whether to trim trailing spaces.
+    "strip-spaces": true,
+
+    // Whether to remove units in zero-valued dimensions.
+    "unitless-zero": true,
+
+    // Whether to align prefixes in properties and values.
+    "vendor-prefix-align": true,
+
+    // Sort properties in particular order.
+    "sort-order": [
+      // Sass variables
+      [ "$variable" ],
+
+      // Sass mixins
+      [ "$include" ],
+
+      // Sass extend/inheritance
+      [ "$extend" ],
+
+      // Pseudo elements
+      ["content"],
+
+      // Positioning
+      [
+        "position",
+        "z-index",
+        "top",
+        "right",
+        "bottom",
+        "left"
+      ],
+
+      // Display & Box Model
+      [
+        // Display
+        "display",
+        "visibility",
+        "float",
+        "clear",
+        "overflow",
+        "overflow-x",
+        "overflow-y",
+        "-ms-overflow-x",
+        "-ms-overflow-y",
+        "clip",
+        "zoom",
+        // Flex
+        "flex-direction",
+        "flex-wrap",
+        "flex-flow",
+        "justify-content",
+        "align-items",
+        "align-content",
+        "order",
+        "flex",
+        "flex-grow",
+        "flex-shrink",
+        "flex-basis",
+        "align-self",
+        // Sizing
+        "box-sizing",
+        "width",
+        "min-width",
+        "max-width",
+        "height",
+        "min-height",
+        "max-height",
+        // Margins
+        "margin",
+        "margin-top",
+        "margin-right",
+        "margin-bottom",
+        "margin-left",
+        // Paddings
+        "padding",
+        "padding-top",
+        "padding-right",
+        "padding-bottom",
+        "padding-left",
+        // Borders
+        "border",
+        "border-width",
+        "border-style",
+        "border-color",
+        "border-top",
+        "border-top-width",
+        "border-top-style",
+        "border-top-color",
+        "border-right",
+        "border-right-width",
+        "border-right-style",
+        "border-right-color",
+        "border-bottom",
+        "border-bottom-width",
+        "border-bottom-style",
+        "border-bottom-color",
+        "border-left",
+        "border-left-width",
+        "border-left-style",
+        "border-left-color",
+        "border-radius",
+        "border-top-left-radius",
+        "border-top-right-radius",
+        "border-bottom-right-radius",
+        "border-bottom-left-radius",
+        "border-image",
+        "border-image-source",
+        "border-image-slice",
+        "border-image-width",
+        "border-image-outset",
+        "border-image-repeat"
+      ],
+
+      // Table
+      [
+        "table-layout",
+        "empty-cells",
+        "caption-side",
+        "border-spacing",
+        "border-collapse",
+        "list-style",
+        "list-style-position",
+        "list-style-type",
+        "list-style-image"
+      ],
+
+      // Font
+      [
+        "font",
+        "font-family",
+        "font-size",
+        "font-weight",
+        "font-style",
+        "font-variant",
+        "font-size-adjust",
+        "font-stretch",
+        "font-effect",
+        "font-emphasize",
+        "font-emphasize-position",
+        "font-emphasize-style",
+        "font-smooth",
+        "line-height"
+      ],
+
+      // Outline
+      [
+        "outline",
+        "outline-width",
+        "outline-style",
+        "outline-color",
+        "outline-offset"
+      ],
+
+      // Transition & Animation
+      [
+        "transition",
+        "transition-delay",
+        "transition-timing-function",
+        "transition-duration",
+        "transition-property",
+        "transform",
+        "transform-origin",
+        "animation",
+        "animation-name",
+        "animation-duration",
+        "animation-play-state",
+        "animation-timing-function",
+        "animation-delay",
+        "animation-iteration-count",
+        "animation-direction"
+      ],
+
+      // Text
+      [
+        "quotes",
+        "counter-reset",
+        "counter-increment",
+        "resize",
+        "cursor",
+        "user-select",
+        "nav-index",
+        "nav-up",
+        "nav-right",
+        "nav-down",
+        "nav-left",
+        "text-align",
+        "text-align-last",
+        "vertical-align",
+        "white-space",
+        "text-decoration",
+        "text-emphasis",
+        "text-emphasis-color",
+        "text-emphasis-style",
+        "text-emphasis-position",
+        "text-indent",
+        "text-justify",
+        "letter-spacing",
+        "word-spacing",
+        "text-outline",
+        "text-transform",
+        "text-wrap",
+        "text-overflow",
+        "text-overflow-ellipsis",
+        "text-overflow-mode",
+        "word-wrap",
+        "word-break",
+        "tab-size",
+        "hyphens",
+        "pointer-events"
+      ],
+
+      // Visual
+      [
+        "opacity",
+        "filter:progid:DXImageTransform.Microsoft.Alpha(Opacity",
+        "-ms-filter:\\'progid:DXImageTransform.Microsoft.Alpha",
+        "-ms-interpolation-mode",
+        "color",
+        "background",
+        "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader",
+        "background-color",
+        "background-image",
+        "background-repeat",
+        "background-attachment",
+        "background-position",
+        "background-position-x",
+        "background-position-y",
+        "background-clip",
+        "background-origin",
+        "background-size",
+        "box-decoration-break",
+        "box-shadow",
+        "filter:progid:DXImageTransform.Microsoft.gradient",
+        "-ms-filter:\\'progid:DXImageTransform.Microsoft.gradient",
+        "text-shadow"
+      ],
+
+      // Media queries
+      [ "$include media" ]
+    ]
+  }
+}
