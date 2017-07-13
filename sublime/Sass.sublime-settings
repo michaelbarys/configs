@@ -1,0 +1,16 @@
+// Open any Sass file, and then go to
+// Preferences -> Settings - Syntax Specific
+// then paste the contents of this file
+// or just place this file in
+// ~/Library/Application Support/Sublime Text 3/Packages/User/Sass.sublime-settings
+{
+  "extensions":
+  [
+    "sass",
+    "scss"
+  ],
+  // These settings override both User and Default settings for the SCSS syntax
+  "on_pre_save_language": [
+    { "command": "css_comb" }
+  ]
+}
