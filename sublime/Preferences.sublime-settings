@@ -170,6 +170,9 @@
   // Show the full path to files in the title bar.
   // On OS X, this value is overridden in the platform specific settings, so
   // you'll need to place this line in your user settings to override it.
-  "show_full_path": true
+  "show_full_path": true,
+
+  // This will exclude files and folders from Goto Anything and Find in Files.
+  "binary_file_patterns": ["node_modules/"]
 
 }
